@@ -1,0 +1,4 @@
+customer_id,lead_score,credit_score,foir,ai_decision,maker_decision,maker_comment,checker_decision,checker_comment,final_decision
+1,100.0,752,18.3,APPROVE,APPROVE,Passed,APPROVE,Passed,LOAN APPROVED
+1,100.0,752,18.3,APPROVE,APPROVE,passed validation,REJECT,validation needs to be rechecked,LOAN REJECTED
+1,100.0,752,18.3,APPROVE,APPROVE,Passed,APPROVE,Passed,LOAN APPROVED
